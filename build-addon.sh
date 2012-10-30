@@ -14,7 +14,7 @@ then
 fi
 
 zip ../en-MY-Rojak.xpi dictionaries/* install.rdf icon.png
-rm dictionaries/*
+rm dictionaries/*.dic
 rm install.rdf
 
 echo ""
