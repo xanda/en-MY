@@ -1,5 +1,3 @@
-70755
-
 'mongst
 'neath
 'strewth
@@ -596,6 +594,7 @@ Bangkok/M
 Bangladesh/M
 Bangladeshi/M
 Bangor/M
+Bangsa-Bangsa
 Bangui/M
 Banjul/M
 Bannerman/M
@@ -8107,6 +8106,7 @@ adage/SM
 adagio/S
 adai
 adakala/b
+adalah
 adalat
 adamant/SY
 adan
@@ -10949,6 +10949,7 @@ ati
 atilt
 atip
 atlantes
+atlantik
 atlas
 atlas/MS
 atlet/b
@@ -11950,6 +11951,7 @@ bangle/SM
 banglo/b
 bangor
 bangpak
+bangsa-bangsa
 bangsa/Sb
 bangsai
 bangsal
@@ -13211,6 +13213,7 @@ berdasar/n
 berdatang/h
 berdaun
 berdekat/ha
+berdekatan
 berdene
 berderai/p
 berdikari
@@ -13270,6 +13273,7 @@ bergantung/hp
 bergaul/h
 bergedel
 bergegar/h
+bergelap
 bergelek
 bergeleng
 bergelimpangan
@@ -13284,6 +13288,7 @@ berhadir
 berhakim
 berhal
 berhala
+berhaluan
 berhantar/h
 berhantuk/h
 berharap/hnp
@@ -13306,10 +13311,13 @@ beribadat/p
 beribbon
 beribboned
 beriberi/MS
+beribu-ribu
 beribu/n
 berida
 beridentiti/n
 berik
+berikut
+berikutan
 berilium
 berimaginasi
 berimam/n
@@ -13334,6 +13342,7 @@ beritahu/DMbn
 beritahulah
 beritakan/DM
 berjabat/h
+berjaga-jaga
 berjangka
 berjasa
 berjatuh
@@ -13383,12 +13392,14 @@ berkelulusan
 berkemahuan
 berkembang/hbpd
 berkena/ha
+berkenaan
 berkepadatan
 berkeparan
 berkeperibadian
 berkerajaan
 berkeriapan
 berkeriut/h
+berkesan
 berkesudahan
 berketimbungan
 berketuakan
@@ -13400,6 +13411,8 @@ berkil
 berko
 berkomplot
 berkonsep/n
+berkualiti
+berkuasa
 berkubu/n
 berkucing
 berkucupan
@@ -13418,12 +13431,14 @@ berlanggar/h
 berlantaikan
 berlara-lara
 berlari/hp
+berlarutan
 berlatar/n
 berlatarbelakangkan
 berlauk/z
 berlawan/nh
 berlebih/h
 berlempaian
+berlepas
 berlian
 berlogo/n
 berloncat/h
@@ -13518,6 +13533,7 @@ berpesan/p
 berpesawat
 berpiawai
 berpilih
+berpindah
 berpistol
 berpoket
 berprinsip/n
@@ -13541,6 +13557,7 @@ bersanggul
 bersantap
 bersapa
 bersat
+bersatu
 bersatupadu/p
 bersaudara/p
 bersayang/h
@@ -13619,6 +13636,7 @@ bertentukan
 berteori/n
 bertepi/n
 berterbangan
+berterusan
 berth/GSDM
 bertih/M
 bertilam/n
@@ -13626,6 +13644,7 @@ bertimbulan
 bertindak/p
 bertindih
 bertirai/n
+bertiup
 bertopeng/n
 bertuan/n
 bertuang
@@ -13636,6 +13655,7 @@ bertulang
 bertulisan
 bertumbuk/hp
 bertunjang/n
+berturut-turut
 beruang
 beruas
 berudu
@@ -14014,6 +14034,7 @@ bilur
 bilut
 bimbang/bnp
 bimbing/ha
+bimbingan
 bimbit/MP
 bimbitan
 bimbitnya
@@ -22078,6 +22099,8 @@ diaper
 diaphanous/PY
 diaphragm/MS
 diaphragmatic
+diarah
+diarahkan
 diari/bqr
 diarrhoea/SMW
 diarrhoeal
@@ -22358,9 +22381,13 @@ diingininya
 diinterpretasi/n
 diistimewakan
 diisyaratkan
+dijadual
+dijadualkan
 dijaja/nb
 dijamah/b
 dijamak/z
+dijangka
+dijangkakan
 dijangkiti/b
 dijauhinya
 dijauhkannya
@@ -22421,6 +22448,7 @@ dikit/bn
 dikomputerkan
 dikopek/b
 dikorporatkan
+dikosongkan
 dikotorkan
 dikoyak/zb
 diksa
@@ -22443,12 +22471,14 @@ dilah
 dilahirkan/b
 dilalah
 dilam
+dilanda
 dilanggar/bnl
 dilangkah/lb
 dilapidate/DGSNn
 dilapidation/M
 dilapik/z
 dilapisi
+dilaporkan
 dilatation/SM
 dilate/hiVGnDSNy
 dilation/M
@@ -22471,6 +22501,7 @@ dilepasi/b
 dilettante/MS
 dilettantish
 dilettantism/MS
+diletupkan
 diligence/SM
 diligent/YP
 dilihat/b
@@ -22763,10 +22794,12 @@ disaffect
 disaggregate
 disagreeable/S
 disah/n
+disahkan
 disalah/n
 disalibkan
 disallow
 disambiguate/NSDGn
+disambut
 disappoint/Lhk
 disarm/k
 disarrange/L
@@ -22847,6 +22880,7 @@ discusser/M
 discussion/M
 disdain/jMDG6S
 disdainful/P
+disebabkan
 disebabkannya
 diseka/b
 diselalukan/b
@@ -22916,6 +22950,7 @@ dismay/DSk
 dismayed/U
 dismember/dL
 dismiss/vR
+disokong
 disorder/hi
 disordered/P
 disorderly/P
@@ -23057,6 +23092,7 @@ ditambat/b
 ditanggapi
 ditangkis/nby
 ditawar/nlmjy
+ditawarkan
 ditch/DSMG
 ditcher/M
 diteduhi
@@ -23075,9 +23111,11 @@ ditty/MS
 ditumangkan
 ditumbuhi
 ditumpanginya
+ditunda
 ditunggang/blmn
 dituruninya
 diturutinya
+ditutup
 ditz/S
 diujinya
 diukirnya
@@ -35705,6 +35743,7 @@ kamus/b
 kana
 kanabalisme
 kanabis
+kanak-kanak
 kanak/b
 kanal
 kanan/bqr
@@ -35915,6 +35954,7 @@ katak/B
 katalog/b
 katam/M
 katang
+katanya
 katar
 kategori/L
 kategorikan/DL
@@ -37232,6 +37272,7 @@ kepil/MT
 kepilan
 kepilkan/MDb
 kepiluan/b
+kepimpinan
 kepincangan/b
 kepinding
 keping/BMS
@@ -37685,6 +37726,7 @@ keseganan
 kesegaran/b
 kesejahteraan
 kesejuta
+keselamatan
 keselapan
 keselarasan
 keselesaan/b
@@ -37693,6 +37735,7 @@ kesemanan
 kesembilan/b
 kesempatan/Bb
 kesempurnaan/b
+kesemua
 kesenai
 kesenangan/b
 kesendalan
@@ -38265,6 +38308,7 @@ kipper/d
 kipsiau
 kipu
 kir
+kira-kira
 kira/BDMPST
 kiraan/bRP
 kirai/DT
@@ -38679,6 +38723,7 @@ kontrastif
 kontrol/DM
 kontroversi/b
 kontur/b
+konvension
 konvensional/b
 konvensyen/b
 konveyor
@@ -39015,6 +39060,7 @@ kur
 kura-kura
 kura/K
 kuran
+kurang-kurang
 kurang/MSTP
 kurangi/DM
 kurangkan/DMQE
@@ -42408,6 +42454,7 @@ mash/RJSGDM
 mashaf/b
 masih/k
 masin/b
+masing-masing
 masing/b
 masjid/b
 mask/JRDMSG
@@ -42788,9 +42835,11 @@ melampiaskan
 melampiri
 melampukan
 melancangkan
+melancarkan
 melancholia/SM
 melancholic/S
 melancholy/MSW
+melanda
 melandaskan
 melandung/n
 melandur/n
@@ -42884,6 +42933,8 @@ meleperkan
 meleset/b
 meleter/lm
 meletihkan/b
+meletup
+meletupkan
 meletus/b
 melicinkan/b
 melihat/lnb
@@ -43026,6 +43077,7 @@ membabar/n
 membabaskan
 membabtis/n
 membaca/nbl
+membadai
 membahagiakan/b
 membahu
 membaik/z
@@ -43051,6 +43103,7 @@ membatukkan
 membaui
 membauri
 membaurkan
+membawa
 membayar/bny
 membazir/np
 membecakkan
@@ -43319,6 +43372,7 @@ memurkai
 memurnikan
 memusakakan
 memusatkannya
+memusnahkan
 memustahakkan
 memustahilkan
 memusuhi/b
@@ -43336,6 +43390,7 @@ menace/kSGD
 menagerie/SM
 menahu
 menaik/lzmy
+menaiki
 menaiktaraf/n
 menajam/n
 menakal/l
@@ -43360,6 +43415,7 @@ menarche/MS
 menarikan
 menaungi
 menaungi/b
+menawan
 menawar/nlmy
 mencabar/bqr
 mencabul/lbm
@@ -43515,6 +43571,7 @@ menempuhkan
 menentang/nly
 menepatkan
 menepukan
+menerbangkan
 menerima/qr
 menerjuni/b
 menerjunkan
@@ -43532,6 +43589,7 @@ mengaci/n
 mengacuhkan
 mengacung/n
 mengada/ny
+mengadakan
 mengadap/bq
 mengagakan
 mengagetkan/b
@@ -43543,6 +43601,7 @@ mengair/l
 mengajaibkan/b
 mengajangi
 mengakali/b
+mengakibatkan
 mengakikahkan
 mengakrabkan
 mengaku/p
@@ -43552,6 +43611,7 @@ mengalah/ny
 mengalir/nl
 mengalutkan
 mengamankan
+mengambil
 mengampai/n
 mengampaikan
 mengampu/nb
@@ -43585,6 +43645,7 @@ mengapalkan
 mengapit/nb
 mengaplikasikannya
 mengapur/nl
+mengarahkan
 mengaram/n
 mengarang/n
 mengarat/n
@@ -43649,6 +43710,7 @@ mengelilingkan
 mengelokkan
 mengelompokkan
 mengeluar/lm
+mengeluarkan
 mengelubungi/b
 mengeluh/n
 mengelukan
@@ -43724,6 +43786,7 @@ menggantung/lnby
 menggaram/ln
 menggatalkan
 menggayutkan
+menggegarkan
 menggelakkan
 menggelarkan/b
 menggeli/n
@@ -43733,6 +43796,7 @@ menggelung/n
 menggema/ln
 menggembala/ln
 menggembirakan/b
+menggemparkan
 menggemukkan/b
 menggenang/l
 menggenapi
@@ -43759,12 +43823,14 @@ menggugupkan
 menggula/l
 menggulai/n
 menggulung/b
+menggunakan
 menggundahkan
 menggusari
 menghabakan
 menghablur/n
 menghadamkan/b
 menghadiahi
+menghadiri
 menghakimi/b
 menghakimkan
 menghakis/n
@@ -43777,9 +43843,11 @@ menghampari
 menghangitkan
 menghantu/lm
 menghanyirkan
+menghanyutkan
 mengharmonikan
 mengharu/ny
 mengharum/nl
+menghasilkan
 menghauskan
 menghayunnya
 menghelah/n
@@ -43806,6 +43874,7 @@ menghisap/b
 menghitamputihkan
 menghitungi
 menghonarkan
+menghubungkan
 menghujananginkan
 menghujanpanaskan
 menghulu/n
@@ -43893,6 +43962,7 @@ mengopek/b
 mengoperasi/ny
 mengorganisasi/n
 mengorientasikan/b
+mengosongkan
 mengosongkannya
 mengotori/b
 mengoyak/zyb
@@ -43916,7 +43986,9 @@ mengulit/l
 mengulit/ln
 mengumandangkan
 mengumuhkan/b
+mengumumkan
 menguncup/nl
+mengundang
 mengundangnya
 mengunjunginya
 mengunyahkan
@@ -43941,6 +44013,7 @@ menidakkan/b
 menikah/lmnyp
 menikam/b
 menimbul/b
+menimbulkan
 menimbun/ln
 menimbus/ln
 menimpaku
@@ -43948,6 +44021,7 @@ menindakbalaskan
 menindan/ny
 meningeal
 meninges
+meninggal
 meninggalkan/bqr
 meninggi
 meningitides
@@ -43961,6 +44035,7 @@ meniscus/M
 menista/nl
 menitahkan
 menjabarkan
+menjadi
 menjaguhkan
 menjahati
 menjaili/b
@@ -44094,8 +44169,10 @@ menunggang/blmn
 menunggu/nlb
 menunggunkan
 menungkan/DM
+menunjukkan
 menuruninya
 menurut/bm
+menutup
 menyabun/lm
 menyabung/n
 menyabur/n
@@ -44132,6 +44209,7 @@ menyarukan
 menyatu
 menyatupadukan/b
 menyayukan
+menyebabkan
 menyebabkannya
 menyebakkan
 menyebalkan
@@ -44151,6 +44229,7 @@ menyeksa/nl
 menyekutu/nl
 menyela/nl
 menyelalukan/b
+menyelamatkan
 menyelampaikan
 menyelampitkan
 menyelaputi/b
@@ -44203,6 +44282,7 @@ menyerupa/lmny
 menyesakkan/b
 menyeterui/b
 menyiang/lm
+menyifatkan
 menyihir/nlb
 menyilau/nb
 menyilukan/b
@@ -44266,6 +44346,7 @@ merapungkan
 merapunkan
 merasaikan/b
 merasikan/b
+merasmikan
 merasmikannya
 merasuki/b
 meratibkan
@@ -44562,6 +44643,7 @@ mew/GSD
 mewah/B
 mewahikan
 mewahnya
+mewakili
 mewakilinya
 mewakilkannya
 mewangi/ny
@@ -47646,6 +47728,7 @@ oedema/SM
 oedematous
 oenology/SM
 oenophile/S
+oenyejukan
 oesophageal
 oesophagi
 oesophagus/M
@@ -49032,6 +49115,7 @@ papakerma
 papal
 papan/SB
 papar/han
+paparan
 paparazzi
 papas
 papaw/MS
@@ -49646,6 +49730,7 @@ pedak
 pedaka
 pedal
 pedal/RGMSD
+pedalaman
 pedamaran
 pedanda
 pedang/Mb
@@ -49735,6 +49820,7 @@ pejam/T
 pejamkan/DM
 pejera
 pejorative/Y
+pejuang
 pejur
 pek/D
 peka/bp
@@ -49811,6 +49897,7 @@ pelanduk/b
 pelang/l
 pelanga
 pelangah
+pelanggan
 pelanggaran
 pelanggi
 pelangkahan
@@ -49923,6 +50010,7 @@ pemacu/b
 pemadaman
 pemadan
 pemadat/h
+pemain
 pemainnya
 pemajuan/b
 pemakai/bha
@@ -49943,6 +50031,7 @@ pemarip
 pemarit
 pemarkahan/b
 pemartaban/b
+pemasangan
 pemasuan/b
 pemasukan
 pemasyhuran
@@ -49961,6 +50050,7 @@ pembakar/h
 pembakuan
 pembalak/h
 pembalikan
+pembangunan
 pembanterasan
 pembantutan
 pembaptisan
@@ -49969,6 +50059,7 @@ pembatal/h
 pembaziran/b
 pembebas/ha
 pembedah/h
+pembekal
 pembekaman
 pembekuan
 pembelajaran/b
@@ -50004,6 +50095,7 @@ pembonceng/b
 pemboros/h
 pembotolan/b
 pembrekan/b
+pembuatan
 pembubar/h
 pembuihan
 pembujangan
@@ -50114,6 +50206,7 @@ pencabar/bqr
 pencabulan
 pencahayaan
 pencak/BM
+pencakar
 pencalak
 pencalang
 pencalonan/b
@@ -50315,6 +50408,7 @@ penggajian/b
 penggal/TBDMSP
 penggalan/BP
 penggalnya/DM
+pengganas
 penggaraman
 penggawa
 penggehi
@@ -50429,6 +50523,7 @@ penjaraan
 penjarakan/DMb
 penjaranya
 penjatian
+penjawat
 penjelajahan/b
 penjelasan/b
 penjenamaan/b
@@ -50536,6 +50631,7 @@ penyedap
 penyedia/bha
 penyegan
 penyejuk/b
+penyejukan
 penyek
 penyelaras/hba
 penyelesa/b
@@ -50701,6 +50797,7 @@ perbahasa/ha
 perbakaan
 perbalahan/b
 perban
+perbandaran
 perbani
 perbankan
 perbantahkan/A
@@ -50955,6 +51052,7 @@ perjuang/DAny
 perjuangan/bqr
 perjudi/DAny
 perjudian
+perjumpaan
 perjure/DRSGZ
 perjury/MS
 perk/DzGSZ2
@@ -51035,6 +51133,7 @@ permaduan/b
 permafrost/MS
 permai/b
 permaidani/b
+permainan
 permaisura
 permaisuri/bq
 permakaman/b
@@ -51113,6 +51212,7 @@ perpetual/SY
 perpetuate/GnSDN
 perpetuation/M
 perpetuity/SM
+perpindahan
 perpisahan/b
 perplex/SGDh
 perplexity/MS
@@ -51222,6 +51322,7 @@ pertajam/DAn
 pertajuk/DA
 pertali/DAn
 pertama/b
+pertandingan
 pertandingkan/DA
 pertang
 pertanggungjawabkan/DA
@@ -51274,6 +51375,7 @@ peruasan/b
 peruk/TM
 peruke/SM
 perum/M
+perumahan
 perumahkan/AD
 perumian
 perumpung
@@ -51327,10 +51429,12 @@ pesantren
 pesara/b
 pesat/b
 pesatkan/MD
+pesawat
 peseban
 pesek
 pesemendan
 peser
+peserta
 peseta/SM
 pesi
 pesimis
@@ -57140,6 +57244,7 @@ rum
 rum/ZMS
 rumah/SPbqr
 rumahan/P
+rumahnya
 rumahtangga/bpqr
 rumba
 rumba/DMSG
@@ -58420,6 +58525,7 @@ sebabnya
 sebaceous
 sebagai/b
 sebagaimana/b
+sebahagian
 sebai/DM
 sebaik/b
 sebak/BMT
@@ -58431,6 +58537,7 @@ sebam
 seban
 sebangatnya
 sebantan
+sebanyak
 sebapa
 sebar/DBMTP
 sebaran/PB
@@ -58667,10 +58774,12 @@ segumbar
 segunja
 seh
 seharah
+sehari
 seharusnya/p
 sehati
 sehidup
 sehilir
+sehingga
 sehubungan
 seigeury/S
 seigneur/MS
@@ -58700,6 +58809,7 @@ seizure/SM
 sejadah
 sejahtera/p
 sejak
+sejam
 sejangat
 sejangkang
 sejangkauan
@@ -58720,6 +58830,7 @@ sejuki/DM
 sejukkan/DM
 sejumbuk
 sejuru
+sejurus
 seka/Bp
 sekaca
 sekah
@@ -58766,6 +58877,7 @@ sekijang
 sekiki
 sekin
 sekip
+sekitar
 sekobang
 sekoci
 sekoi
@@ -58791,12 +58903,15 @@ seksualiti
 seksyen/b
 sektor/b
 sekuang
+sekuat
 sekubin
 sekuit
 sekul
 sekular/b
 sekumpul/h
 sekunder/b
+sekurang-kurang
+sekurang-kurangnya
 sekuriti/b
 sekut/M
 sekutu/DB
@@ -58817,6 +58932,7 @@ selakkan/DMb
 selaknya/DM
 selalu/bp
 selam/BDMPT
+selama
 selamat/PTMbp
 selamatan/KBb
 selamatkan/DMb
@@ -59187,6 +59303,7 @@ semaja
 semak/DMPb
 semakan/Pb
 semakkan/MDb
+semalam
 semambu
 semampai
 semampang
@@ -59606,6 +59723,7 @@ sepal/SM
 sepana/b
 sepanduk/b
 sepang
+sepanjang
 separa
 separability/I
 separable/IY
@@ -59700,6 +59818,7 @@ serakan/Bb
 serakkan/DMb
 seram/bp
 serama/B
+seramai
 serambi/b
 seramik
 serampang/TM
@@ -59897,6 +60016,7 @@ set/b
 set/eMS
 setahu/bq
 setajam/b
+setakat
 setan/R
 setandang
 setang/h
@@ -59917,6 +60037,7 @@ seteruk/b
 seterusnya
 setia/bp
 setiakawan
+setiap
 setiausaha/b
 setidak/b
 setimpal/b
@@ -64884,6 +65005,7 @@ tekatan
 teker
 teki/b
 tekis
+teknik-teknik
 teknik/b
 teknikal/b
 teknologi/B
@@ -65410,6 +65532,7 @@ teratak/bM
 teratology/M
 teratu
 terau
+terawal
 terawang/BDM
 terayap
 terazo
@@ -65458,6 +65581,7 @@ terentang
 teres/DM
 terfikir
 tergamak/kp
+tergantung
 tergelek
 tergenggam
 tergoda/p
@@ -65495,6 +65619,7 @@ terjah/DM
 terjahan/b
 terjal
 terjang/M
+terjejas
 terjemah/DNO
 terjemahan/O
 terjemahkan/DN
@@ -65508,6 +65633,7 @@ terkalahkan
 terkam/DMb
 terkaman/B
 terkanan
+terkandas
 terkap/M
 terkata/n
 terkebawah
@@ -65520,6 +65646,7 @@ terkena/p
 terkepung/p
 terkerlap
 terkiri
+terkorban
 terkubu
 terkul
 terkup/M
@@ -65595,6 +65722,7 @@ terpedaya
 terpegang/b
 terpelajar
 terpelanting
+terpelihara
 terpeluk
 terpenting
 terperi/n
@@ -65602,6 +65730,7 @@ terperongo
 terpersil
 terpinta
 terpuji
+terputus
 terrace/GSMD
 terracotta
 terrain/SM
@@ -65692,6 +65821,7 @@ testes
 testicle/MS
 testicular
 testify/RDSG
+testimoni
 testimonial/MS
 testimonial/b
 testimony/MS
